@@ -1,0 +1,94 @@
+Cmp-Mod V01 Created by CvPcb (2014-01-30 BZR 4648)-product date = So 22. únor 2014, 09:58:02 CET
+
+BeginCmp
+TimeStamp = /52F15DD2;
+Reference = BT1;
+ValeurCmp = 3V;
+IdModule  = ds:battery_ch25_2032;
+EndCmp
+
+BeginCmp
+TimeStamp = /53064F07;
+Reference = C1;
+ValeurCmp = 220n;
+IdModule  = ds:sm0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53064F1E;
+Reference = C2;
+ValeurCmp = 470p;
+IdModule  = ds:sm0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53064D2A;
+Reference = C3;
+ValeurCmp = 10u;
+IdModule  = ds:sm0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53064F4A;
+Reference = D1;
+ValeurCmp = DIODE;
+IdModule  = ds:2pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /53064F7A;
+Reference = D2;
+ValeurCmp = DIODE;
+IdModule  = ds:2pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F1618A;
+Reference = P1;
+ValeurCmp = CONN_1;
+IdModule  = ds:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F1616E;
+Reference = P2;
+ValeurCmp = CONN_1;
+IdModule  = ds:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /53064EF5;
+Reference = R1;
+ValeurCmp = 1M;
+IdModule  = ds:sm0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53064F3D;
+Reference = R2;
+ValeurCmp = 1k;
+IdModule  = ds:sm0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F15DF0;
+Reference = SP1;
+ValeurCmp = SPEAKER;
+IdModule  = ds:buzzer_10_24;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F15DBB;
+Reference = SW1;
+ValeurCmp = SS-12F51-G6;
+IdModule  = ds:switch_4mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /53064C69;
+Reference = U1;
+ValeurCmp = 74HC04;
+IdModule  = ds:dip14;
+EndCmp
+
+EndListe
