@@ -30,7 +30,7 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:ds_device
-LIBS:audioohmmetr-cache
+LIBS:audioohmmeter-cache
 EELAYER 24 0
 EELAYER END
 $Descr A4 11693 8268

@@ -1,6 +1,6 @@
 (export (version D)
   (design
-    (source /home/hasan/Projects/audioohmmetr/audioohmmetr.sch)
+    (source /home/hasan/Projects/audioohmmeter/audioohmmeter.sch)
     (date So 22. únor 2014, 09:56:40 CET)
     (tool "eeschema (2014-01-30 BZR 4648)-product"))
   (components
