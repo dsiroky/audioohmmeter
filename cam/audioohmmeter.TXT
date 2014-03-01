@@ -1,5 +1,5 @@
 M48
-;DRILL file {Pcbnew (2014-01-30 BZR 4648)-product} date Ne 23. únor 2014, 14:30:26 CET
+;DRILL file {Pcbnew (2014-01-30 BZR 4648)-product} date So 1. březen 2014, 14:04:43 CET
 ;FORMAT={-:-/ absolute / metric / decimal}
 FMAT,2
 METRIC,TZ
@@ -14,7 +14,7 @@ G90
 G05
 M71
 T1
-X18.732Y22.543
+X18.415Y22.225
 T2
 X12.383Y26.67
 X12.383Y19.05

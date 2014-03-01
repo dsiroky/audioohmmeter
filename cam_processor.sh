@@ -31,7 +31,7 @@ mv cam/$BASE-B_SilkS.pho cam/$BASE.GBO
 ###########################
 
 kicad_plot.py $OUTPUT --layers Edge.Cuts $SRC
-mv cam/$BASE-Edge_Cuts.pho cam/$BASE.GKO
+mv cam/$BASE-Edge_Cuts.pho cam/$BASE.GML
 
 ###########################
 ###########################

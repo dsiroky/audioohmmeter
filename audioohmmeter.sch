@@ -413,4 +413,8 @@ Wire Wire Line
 Connection ~ 9250 5100
 Wire Wire Line
 	9150 2450 9750 2450
+Text Notes 7550 3950 0    60   ~ 0
+-
+Text Notes 7550 4100 0    60   ~ 0
++
 $EndSCHEMATC
